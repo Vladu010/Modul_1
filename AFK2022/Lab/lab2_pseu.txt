@@ -1,0 +1,21 @@
+Algoritmul numere este
+(1)	k:=1;
+(2)	afiseaza k;
+(3)	k:=k+1;
+(4)	daca k<=100
+		sare la linia 2
+	sf. daca
+Sf. algoritm
+
+Algoritm numere este
+	intreg k;
+	k:=1;
+	cat timp (k<=100) executa
+		afiseaza k, " ";
+		k:=k+1;
+	sf. cat timp
+Sf. algoritm
+
+Pseudo: pentru, cattimp, repeta...panacand, repeta..cattimp
+
+
